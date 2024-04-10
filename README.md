@@ -1,4 +1,9 @@
 # Find the maximum of a list of numbers
+Name:J.JANANI
+
+Register No:212223230085
+
+Department:B.Tech AIDS
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
